@@ -1,0 +1,12 @@
+# Core — D1
+matplotlib>=3.8,<4.0
+numpy>=1.26,<3.0
+optuna>=3.6,<4.0
+pandas>=2.2,<3.0
+pytest>=8.0,<9.0
+river>=0.21,<1.0
+scikit-learn>=1.4,<2.0
+
+# D2 additions (not needed for D1 — uncomment when starting D2)
+# sentence-transformers>=3.0,<4.0
+# qdrant-client>=1.9,<2.0
