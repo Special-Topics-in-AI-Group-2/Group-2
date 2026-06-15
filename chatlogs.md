@@ -24,6 +24,6 @@ Deliverable 4 -
 
 Yousef Al Refaie:  
 Deliverable 1 - https://claude.ai/share/a0769fb7-bdfa-4209-a6b9-c1f725912b67  
-Deliverable 2 - https://claude.ai/share/1e455185-a136-470c-934d-9202c029f13c
+Deliverable 2 - https://claude.ai/share/1e455185-a136-470c-934d-9202c029f13c  
 Deliverable 3 -  
 Deliverable 4 -  
