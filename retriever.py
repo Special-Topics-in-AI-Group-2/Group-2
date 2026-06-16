@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+qdrant-client
+sentence-transformers
+rank-bm25
+pymupdf
+tqdm
+neo4j
