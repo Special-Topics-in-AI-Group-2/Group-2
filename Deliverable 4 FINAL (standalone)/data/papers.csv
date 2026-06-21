@@ -1,0 +1,103 @@
+paper id,title,authors,venue,year,topics
+P001,Attention Is All You Need,Ashish Vaswani; Noam Shazeer; Niki Parmar; Jakob Uszkoreit; Llion Jones; Aidan N. Gomez; Lukasz Kaiser; Illia Polosukhin,NeurIPS,2017,Transformers; Self-Attention; Sequence Modeling; NLP
+P002,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Jacob Devlin; Ming-Wei Chang; Kenton Lee; Kristina Toutanova,NAACL,2019,BERT; Pre-training; Transformers; NLP
+P003,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,Patrick Lewis; Ethan Perez; Aleksandra Piktus; Fabio Petroni; Vladimir Karpukhin; Naman Goyal; Heinrich Kuttler; Mike Lewis; Wen-tau Yih; Tim Rocktaschel; Sebastian Riedel; Douwe Kiela,NeurIPS,2020,RAG; Information Retrieval; Generation; NLP
+P004,RoBERTa: A Robustly Optimized BERT Pretraining Approach,Yinhan Liu; Myle Ott; Naman Goyal; Jingfei Du; Mandar Joshi; Danqi Chen; Omer Levy; Mike Lewis; Luke Zettlemoyer; Veselin Stoyanov,arXiv,2019,BERT; Pre-training; Transformers; NLP
+P005,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,Colin Raffel; Noam Shazeer; Adam Roberts; Katherine Lee; Sharan Narang; Michael Matena; Yanqi Zhou; Wei Li; Peter J. Liu,JMLR,2020,Transfer Learning; Transformers; Pre-training; NLP
+P006,Dense Passage Retrieval for Open-Domain Question Answering,Vladimir Karpukhin; Barlas Oguz; Sewon Min; Patrick Lewis; Ledell Wu; Sergey Edunov; Danqi Chen; Wen-tau Yih,EMNLP,2020,Information Retrieval; Dense Retrieval; Question Answering; NLP
+P007,Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,Nils Reimers; Iryna Gurevych,EMNLP,2019,Sentence Embeddings; Dense Retrieval; BERT; NLP
+P008,LoRA: Low-Rank Adaptation of Large Language Models,Edward J. Hu; Yelong Shen; Phillip Wallis; Zeyuan Allen-Zhu; Yuanzhi Li; Shean Wang; Lu Wang; Weizhu Chen,ICLR,2022,Parameter-Efficient Fine-Tuning; LoRA; Transformers; NLP
+P009,QLoRA: Efficient Finetuning of Quantized LLMs,Tim Dettmers; Artidoro Pagnoni; Ari Holtzman; Luke Zettlemoyer,NeurIPS,2023,Parameter-Efficient Fine-Tuning; Quantization; LoRA; NLP
+P010,Training Language Models to Follow Instructions with Human Feedback,Long Ouyang; Jeff Wu; Xu Jiang; Diogo Almeida; Carroll L. Wainwright; Pamela Mishkin; Chong Zhang; Sandhini Agarwal; Katarina Slama; Alex Ray; et al.,NeurIPS,2022,Instruction Tuning; RLHF; Alignment; NLP
+P011,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,Jason Wei; Xuezhi Wang; Dale Schuurmans; Maarten Bosma; Brian Ichter; Fei Xia; Ed Chi; Quoc Le; Denny Zhou,NeurIPS,2022,Reasoning; Prompting; Large Language Models; NLP
+P012,ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT,Omar Khattab; Matei Zaharia,SIGIR,2020,Information Retrieval; Dense Retrieval; BERT; NLP
+P013,Retrieval-Augmented Generation for Large Language Models: A Survey,Yunfan Gao; Yun Xiong; Xinyu Gao; Kangxiang Jia; Jinliu Pan; Yuxi Bi; Yi Dai; Jiawei Sun; Qianyu Guo; Meng Wang; Haofen Wang,arXiv,2023,RAG; Information Retrieval; Large Language Models; Survey
+P014,Efficient Estimation of Word Representations in Vector Space,Tomas Mikolov; Kai Chen; Greg Corrado; Jeffrey Dean,ICLR Workshop,2013,Word Embeddings; Representation Learning; NLP
+P015,Neural Machine Translation by Jointly Learning to Align and Translate,Dzmitry Bahdanau; Kyunghyun Cho; Yoshua Bengio,ICLR,2015,Machine Translation; Attention; NLP
+P016,Sequence to Sequence Learning with Neural Networks,Ilya Sutskever; Oriol Vinyals; Quoc V. Le,NeurIPS,2014,Sequence Modeling; Machine Translation; NLP
+P017,Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation,Kyunghyun Cho; Bart van Merrienboer; Yoshua Bengio,EMNLP,2014,Machine Translation; Representation Learning; NLP
+P018,Effective Approaches to Attention-based Neural Machine Translation,Minh-Thang Luong; Hieu Pham; Christopher D. Manning,EMNLP,2015,Machine Translation; Attention; NLP
+P019,Deep contextualized word representations,Matthew E. Peters; Mark Neumann; Luke Zettlemoyer,NAACL,2018,Representation Learning; Pre-training; NLP
+P020,Universal Language Model Fine-tuning for Text Classification,Jeremy Howard; Sebastian Ruder,ACL,2018,Transfer Learning; Pre-training; NLP
+P021,XLNet: Generalized Autoregressive Pretraining for Language Understanding,Zhilin Yang; Zihang Dai; Quoc V. Le,NeurIPS,2019,Pre-training; Transformers; NLP
+P022,ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,Zhenzhong Lan; Mingda Chen; Radu Soricut,ICLR,2020,BERT; Pre-training; Efficiency
+P023,"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",Victor Sanh; Lysandre Debut; Thomas Wolf,arXiv,2019,BERT; Distillation; Efficiency
+P024,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,Kevin Clark; Minh-Thang Luong; Christopher D. Manning,ICLR,2020,Pre-training; Transformers; NLP
+P025,"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",Mike Lewis; Yinhan Liu; Luke Zettlemoyer,ACL,2020,Pre-training; Generation; NLP
+P026,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,Zihang Dai; Zhilin Yang; Ruslan Salakhutdinov,ACL,2019,Transformers; Language Modeling; NLP
+P027,Language Models are Few-Shot Learners,Tom B. Brown; Benjamin Mann; Dario Amodei,NeurIPS,2020,Large Language Models; Few-Shot Learning; NLP
+P028,Scaling Laws for Neural Language Models,Jared Kaplan; Sam McCandlish; Dario Amodei,arXiv,2020,Large Language Models; Scaling Laws; NLP
+P029,Training Compute-Optimal Large Language Models,Jordan Hoffmann; Sebastian Borgeaud; Laurent Sifre,NeurIPS,2022,Large Language Models; Scaling Laws; Efficiency
+P030,PaLM: Scaling Language Modeling with Pathways,Aakanksha Chowdhery; Sharan Narang; Jacob Devlin,JMLR,2023,Large Language Models; Pre-training; NLP
+P031,LLaMA: Open and Efficient Foundation Language Models,Hugo Touvron; Thibaut Lavril; Guillaume Lample,arXiv,2023,Large Language Models; Pre-training; NLP
+P032,Llama 2: Open Foundation and Fine-Tuned Chat Models,Hugo Touvron; Louis Martin; Thomas Scialom,arXiv,2023,Large Language Models; Instruction Tuning; NLP
+P033,Emergent Abilities of Large Language Models,Jason Wei; Yi Tay; William Fedus,TMLR,2022,Large Language Models; Reasoning; NLP
+P034,Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism,Mohammad Shoeybi; Mostofa Patwary; Bryan Catanzaro,arXiv,2019,Large Language Models; Efficiency; Pre-training
+P035,The Pile: An 800GB Dataset of Diverse Text for Language Modeling,Leo Gao; Stella Biderman; Connor Leahy,arXiv,2020,Large Language Models; Datasets; Pre-training
+P036,BLOOM: A 176B-Parameter Open-Access Multilingual Language Model,Teven Le Scao; Angela Fan; BigScience Workshop,arXiv,2022,Large Language Models; Multilingual; NLP
+P037,OPT: Open Pre-trained Transformer Language Models,Susan Zhang; Stephen Roller; Luke Zettlemoyer,arXiv,2022,Large Language Models; Pre-training; NLP
+P038,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,Tri Dao; Daniel Y. Fu; Christopher Re,NeurIPS,2022,Efficiency; Self-Attention; Transformers
+P039,FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning,Tri Dao,arXiv,2023,Efficiency; Self-Attention; Transformers
+P040,Efficient Memory Management for Large Language Model Serving with PagedAttention,Woosuk Kwon; Zhuohan Li; Ion Stoica,SOSP,2023,Efficiency; Serving; Large Language Models
+P041,Mamba: Linear-Time Sequence Modeling with Selective State Spaces,Albert Gu; Tri Dao,arXiv,2023,Sequence Modeling; Efficiency; State Space Models
+P042,Longformer: The Long-Document Transformer,Iz Beltagy; Matthew E. Peters; Arman Cohan,arXiv,2020,Transformers; Long Context; Efficiency
+P043,Rethinking Attention with Performers,Krzysztof Choromanski; Valerii Likhosherstov; Adrian Weller,ICLR,2021,Self-Attention; Efficiency; Transformers
+P044,Linformer: Self-Attention with Linear Complexity,Sinong Wang; Belinda Z. Li; Hao Ma,arXiv,2020,Self-Attention; Efficiency; Transformers
+P045,RoFormer: Enhanced Transformer with Rotary Position Embedding,Jianlin Su; Yu Lu; Yunfeng Liu,arXiv,2021,Transformers; Positional Encoding; NLP
+P046,Parameter-Efficient Transfer Learning for NLP,Neil Houlsby; Andrei Giurgiu; Sylvain Gelly,ICML,2019,Parameter-Efficient Fine-Tuning; Transfer Learning; NLP
+P047,The Power of Scale for Parameter-Efficient Prompt Tuning,Brian Lester; Rami Al-Rfou; Noah Constant,EMNLP,2021,Parameter-Efficient Fine-Tuning; Prompting; NLP
+P048,Prefix-Tuning: Optimizing Continuous Prompts for Generation,Xiang Lisa Li; Percy Liang,ACL,2021,Parameter-Efficient Fine-Tuning; Generation; NLP
+P049,Towards a Unified View of Parameter-Efficient Transfer Learning,Junxian He; Chunting Zhou; Graham Neubig,ICLR,2022,Parameter-Efficient Fine-Tuning; Transfer Learning; NLP
+P050,LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention,Renrui Zhang; Jiaming Han; Yu Qiao,arXiv,2023,Parameter-Efficient Fine-Tuning; Instruction Tuning; NLP
+P051,GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding,Alex Wang; Amanpreet Singh; Samuel R. Bowman,ICLR,2019,Benchmark; Evaluation; NLP
+P052,Finetuned Language Models Are Zero-Shot Learners,Jason Wei; Maarten Bosma; Quoc V. Le,ICLR,2022,Instruction Tuning; Large Language Models; NLP
+P053,Scaling Instruction-Finetuned Language Models,Hyung Won Chung; Le Hou; Jason Wei,arXiv,2022,Instruction Tuning; Large Language Models; NLP
+P054,Self-Instruct: Aligning Language Models with Self-Generated Instructions,Yizhong Wang; Yeganeh Kordi; Hannaneh Hajishirzi,ACL,2023,Instruction Tuning; Alignment; NLP
+P055,LIMA: Less Is More for Alignment,Chunting Zhou; Pengfei Liu; Omer Levy,NeurIPS,2023,Instruction Tuning; Alignment; NLP
+P056,Direct Preference Optimization: Your Language Model is Secretly a Reward Model,Rafael Rafailov; Archit Sharma; Chelsea Finn,NeurIPS,2023,RLHF; Alignment; Large Language Models
+P057,Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback,Yuntao Bai; Andy Jones; Jared Kaplan,arXiv,2022,RLHF; Alignment; Large Language Models
+P058,Constitutional AI: Harmlessness from AI Feedback,Yuntao Bai; Saurav Kadavath; Jared Kaplan,arXiv,2022,Alignment; RLHF; Large Language Models
+P059,Learning to Summarize from Human Feedback,Nisan Stiennon; Long Ouyang; Paul Christiano,NeurIPS,2020,RLHF; Summarization; NLP
+P060,Self-Consistency Improves Chain of Thought Reasoning in Language Models,Xuezhi Wang; Jason Wei; Denny Zhou,ICLR,2023,Reasoning; Prompting; Large Language Models
+P061,Large Language Models are Zero-Shot Reasoners,Takeshi Kojima; Shixiang Shane Gu; Yusuke Iwasawa,NeurIPS,2022,Reasoning; Prompting; Large Language Models
+P062,ReAct: Synergizing Reasoning and Acting in Language Models,Shunyu Yao; Jeffrey Zhao; Yuan Cao,ICLR,2023,Reasoning; Agents; Large Language Models
+P063,Tree of Thoughts: Deliberate Problem Solving with Large Language Models,Shunyu Yao; Dian Yu; Karthik Narasimhan,NeurIPS,2023,Reasoning; Prompting; Large Language Models
+P064,Toolformer: Language Models Can Teach Themselves to Use Tools,Timo Schick; Jane Dwivedi-Yu; Thomas Scialom,NeurIPS,2023,Agents; Tool Use; Large Language Models
+P065,PAL: Program-aided Language Models,Luyu Gao; Aman Madaan; Graham Neubig,ICML,2023,Reasoning; Prompting; Large Language Models
+P066,REALM: Retrieval-Augmented Language Model Pre-Training,Kelvin Guu; Kenton Lee; Ming-Wei Chang,ICML,2020,RAG; Information Retrieval; Pre-training
+P067,Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval,Lee Xiong; Chenyan Xiong; Arnold Overwijk,ICLR,2021,Dense Retrieval; Information Retrieval; NLP
+P068,Unsupervised Dense Information Retrieval with Contrastive Learning,Gautier Izacard; Mathilde Caron; Edouard Grave,TMLR,2022,Dense Retrieval; Information Retrieval; NLP
+P069,BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models,Nandan Thakur; Nils Reimers; Iryna Gurevych,NeurIPS,2021,Information Retrieval; Benchmark; Evaluation
+P070,ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction,Keshav Santhanam; Omar Khattab; Matei Zaharia,NAACL,2022,Dense Retrieval; Information Retrieval; Efficiency
+P071,Text Embeddings by Weakly-Supervised Contrastive Pre-training,Liang Wang; Nan Yang; Furu Wei,arXiv,2022,Sentence Embeddings; Dense Retrieval; NLP
+P072,Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering,Gautier Izacard; Edouard Grave,EACL,2021,RAG; Question Answering; Information Retrieval
+P073,Atlas: Few-shot Learning with Retrieval Augmented Language Models,Gautier Izacard; Patrick Lewis; Edouard Grave,JMLR,2023,RAG; Few-Shot Learning; Information Retrieval
+P074,Precise Zero-Shot Dense Retrieval without Relevance Labels,Luyu Gao; Xueguang Ma; Jamie Callan,ACL,2023,Dense Retrieval; RAG; Information Retrieval
+P075,"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",Akari Asai; Zeqiu Wu; Hannaneh Hajishirzi,ICLR,2024,RAG; Information Retrieval; Generation
+P076,REPLUG: Retrieval-Augmented Black-Box Language Models,Weijia Shi; Sewon Min; Wen-tau Yih,NAACL,2024,RAG; Information Retrieval; Large Language Models
+P077,"Sparse, Dense, and Attentional Representations for Text Retrieval",Yi Luan; Jacob Eisenstein; Michael Collins,TACL,2021,Information Retrieval; Dense Retrieval; NLP
+P078,Distilling Knowledge from Reader to Retriever for Question Answering,Gautier Izacard; Edouard Grave,ICLR,2021,Information Retrieval; Question Answering; Distillation
+P079,Distributed Representations of Words and Phrases and their Compositionality,Tomas Mikolov; Ilya Sutskever; Jeffrey Dean,NeurIPS,2013,Word Embeddings; Representation Learning; NLP
+P080,Distributed Representations of Sentences and Documents,Quoc V. Le; Tomas Mikolov,ICML,2014,Representation Learning; Word Embeddings; NLP
+P081,Enriching Word Vectors with Subword Information,Piotr Bojanowski; Edouard Grave; Tomas Mikolov,TACL,2017,Word Embeddings; Representation Learning; NLP
+P082,"SQuAD: 100,000+ Questions for Machine Comprehension of Text",Pranav Rajpurkar; Jian Zhang; Percy Liang,EMNLP,2016,Question Answering; Benchmark; NLP
+P083,SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems,Alex Wang; Yada Pruksachatkun; Samuel R. Bowman,NeurIPS,2019,Benchmark; Evaluation; NLP
+P084,Measuring Massive Multitask Language Understanding,Dan Hendrycks; Collin Burns; Jacob Steinhardt,ICLR,2021,Benchmark; Evaluation; Large Language Models
+P085,"HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",Zhilin Yang; Peng Qi; Christopher D. Manning,EMNLP,2018,Question Answering; Benchmark; NLP
+P086,TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension,Mandar Joshi; Eunsol Choi; Luke Zettlemoyer,ACL,2017,Question Answering; Benchmark; NLP
+P087,Training Verifiers to Solve Math Word Problems,Karl Cobbe; Vineet Kosaraju; John Schulman,arXiv,2021,Reasoning; Benchmark; Large Language Models
+P088,Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models,Aarohi Srivastava; Abhinav Rastogi; BIG-bench collaboration,TMLR,2023,Benchmark; Evaluation; Large Language Models
+P089,MS MARCO: A Human Generated MAchine Reading COmprehension Dataset,Tri Nguyen; Mir Rosenberg; Li Deng,NeurIPS Workshop,2016,Question Answering; Information Retrieval; Benchmark
+P090,The Curious Case of Neural Text Degeneration,Ari Holtzman; Jan Buys; Yejin Choi,ICLR,2020,Generation; Decoding; NLP
+P091,Survey of Hallucination in Natural Language Generation,Ziwei Ji; Nayeon Lee; Pascale Fung,ACM Computing Surveys,2023,Generation; Hallucination; Survey
+P092,GPT-4 Technical Report,OpenAI,arXiv,2023,Large Language Models; Evaluation; NLP
+P093,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Alexey Dosovitskiy; Lucas Beyer; Neil Houlsby,ICLR,2021,Transformers; Vision-Language; Representation Learning
+P094,Learning Transferable Visual Models From Natural Language Supervision,Alec Radford; Jong Wook Kim; Ilya Sutskever,ICML,2021,Vision-Language; Representation Learning; NLP
+P095,BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation,Junnan Li; Dongxu Li; Steven Hoi,ICML,2022,Vision-Language; Pre-training; Generation
+P096,Layer Normalization,Jimmy Lei Ba; Jamie Ryan Kiros; Geoffrey E. Hinton,arXiv,2016,Optimization; Transformers; Representation Learning
+P097,Deep Residual Learning for Image Recognition,Kaiming He; Xiangyu Zhang; Jian Sun,CVPR,2016,Representation Learning; Vision-Language; Optimization
+P098,Adam: A Method for Stochastic Optimization,Diederik P. Kingma; Jimmy Ba,ICLR,2015,Optimization; Representation Learning
+P099,Distilling the Knowledge in a Neural Network,Geoffrey Hinton; Oriol Vinyals; Jeff Dean,NeurIPS Workshop,2015,Distillation; Efficiency; Representation Learning
+P100,A Survey of Large Language Models,Wayne Xin Zhao; Kun Zhou; Ji-Rong Wen,arXiv,2023,Large Language Models; Survey; NLP
+P101,On the Opportunities and Risks of Foundation Models,Rishi Bommasani; Drew A. Hudson; Percy Liang,arXiv,2021,Large Language Models; Survey; Alignment
+P102,Transformers: State-of-the-Art Natural Language Processing,Thomas Wolf; Lysandre Debut; Alexander M. Rush,EMNLP,2020,Transformers; NLP; Software
