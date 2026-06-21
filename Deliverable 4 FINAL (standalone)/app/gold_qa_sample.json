@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What papers discuss transformers?",
+    "expected_topic": "transformers"
+  },
+  {
+    "question": "Which authors are related to retrieval?",
+    "expected_topic": "retrieval"
+  },
+  {
+    "question": "What papers are about attention?",
+    "expected_topic": "attention"
+  }
+]
