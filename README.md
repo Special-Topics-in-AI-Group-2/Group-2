@@ -6,7 +6,7 @@ An AI agent that answers questions over a corpus of real scientific PDFs with
 graph (GraphRAG), online learning, AutoML, and a PEFT/QLoRA-tuned small language
 model.
 
-> **The runnable project lives in the [`Deliverable 4/`](Deliverable%204) folder** — it is
+> **The runnable project lives in the [`Deliverable 4 FINAL (standalone)/`](Deliverable%204) folder** — it is
 > self-contained and carries the complete D1, D2, and D3 code, so it is the only
 > folder you need to run the whole system. **All commands below are run from
 > inside it** (`cd "Deliverable 4"`). The `Deliverable 1/2/3/` folders are the
