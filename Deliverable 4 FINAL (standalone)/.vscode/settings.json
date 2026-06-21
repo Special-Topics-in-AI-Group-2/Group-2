@@ -1,7 +1,0 @@
-{
-  "// note": "Resolves cross-folder imports for the editor. D2/D3/D4 modules live in app/ and import each other by bare name; D1 lives in the src/ package. These extraPaths let Pylance find them (it doesn't follow the runtime sys.path inserts in scripts/quickstart.py, tests/conftest.py, etc.).",
-  "python.analysis.extraPaths": ["./app", "./src", "."],
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
-  "python.terminal.activateEnvironment": true,
-  "python.analysis.typeCheckingMode": "off"
-}
